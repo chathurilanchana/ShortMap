@@ -21,7 +21,7 @@
 .settings
 .svn
 autom4te.cache
-build/
+#build/
 build.properties
 build-fi/
 conf/masters
