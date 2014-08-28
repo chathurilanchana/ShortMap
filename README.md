@@ -1,4 +1,7 @@
 ShortMap
 ========
 
-Process large datasets much faster with indexes
+
+Process large datasets much faster with indexes.
+
+---
